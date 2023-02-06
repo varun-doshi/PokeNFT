@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PokeNFT/static/css/main.78d6ed2a.css",
+    "main.js": "/PokeNFT/static/js/main.c736889c.js",
+    "static/media/hero.png": "/PokeNFT/static/media/hero.1588e9103bae3c1c3136.png",
+    "static/media/pokeball.png": "/PokeNFT/static/media/pokeball.3379e6b6754b646f19ed.png",
+    "index.html": "/PokeNFT/index.html",
+    "main.78d6ed2a.css.map": "/PokeNFT/static/css/main.78d6ed2a.css.map",
+    "main.c736889c.js.map": "/PokeNFT/static/js/main.c736889c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78d6ed2a.css",
+    "static/js/main.c736889c.js"
+  ]
+}
