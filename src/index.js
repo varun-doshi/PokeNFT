@@ -1,17 +1,23 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+// import { configureChains, createClient, WagmiConfig } from "wagmi";
+// import { polygonMumbai } from "@wagmi/core/chains";
+// import { publicProvider } from "wagmi/providers/public";
+// import { MetaMaskConnector } from "wagmi/connectors/metaMask";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+// const { chains, provider, webSocketProvider } = configureChains(
+//   [polygonMumbai],
+//   [publicProvider()]
+// );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// const client = createClient({
+//   autoConnect: false,
+//   provider,
+//   webSocketProvider,
+//   connectors: [new MetaMaskConnector({ chains: [polygonMumbai] })],
+// });
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<App />);
