@@ -1,3 +1,46 @@
+# Pokemon NFT 
+---
+## This is my submission for Alchemy University Final Project.
+
+
+![Screenshot (96)](https://user-images.githubusercontent.com/61531351/217629084-ae0f7abb-b198-4ad1-82ae-b2e472c6a90a.png)
+
+## Start your the process by `Connecting your Wallet`. <br/>
+### For simplicity sake, you can currently connect to only Metamask.
+
+<br/>
+
+## Once connected, you can select a Pokemon and begin your journey. <br/>
+
+![Choose Pokemon](https://user-images.githubusercontent.com/61531351/217630745-6fbac416-b973-435d-97a5-89d72b4cf7c3.png)
+
+<br/>
+
+## Try your luck by choosing a Pokeball and `Minting your NFT` <br/>
+
+*Warning:You can only choose 1 Pokemon. So choose wisely!*
+
+# After Minting your NFT, you can start training your Pokemon and become the next Pokemon World Champion!
+
+### The Smart Contract is deployed to the `Goerli` Testnet.
+### Tech Stack used: 
+* React JS
+* Solidity
+* Hardhat
+* IPFS
+* Alchemy API
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
